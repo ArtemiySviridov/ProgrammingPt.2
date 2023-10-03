@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Lab1_Prog2_Auto.exe.config
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Lab1_Prog2_Auto.exe
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Lab1_Prog2_Auto.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Automobile_Class.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Automobile_Class.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.Properties.Resources.resources
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.csproj.GenerateResource.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.csproj.CopyComplete
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.exe
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\obj\Debug\Lab1_Prog2_Auto.Lab1.resources
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Fine.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Lab1_Prog2_Auto\bin\Debug\Fine.pdb

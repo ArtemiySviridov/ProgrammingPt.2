@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\bin\Debug\Fine.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\bin\Debug\Fine.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\bin\Debug\Automobile_Class.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\bin\Debug\Automobile_Class.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\obj\Debug\Fine.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\obj\Debug\Fine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\obj\Debug\Fine.csproj.CopyComplete
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\obj\Debug\Fine.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Fine\obj\Debug\Fine.pdb

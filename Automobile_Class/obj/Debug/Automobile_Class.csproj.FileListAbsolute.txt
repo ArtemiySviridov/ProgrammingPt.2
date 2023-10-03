@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\bin\Debug\Automobile_Class.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\bin\Debug\Automobile_Class.pdb
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\obj\Debug\Automobile_Class.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\obj\Debug\Automobile_Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\obj\Debug\Automobile_Class.dll
+C:\Users\User\Desktop\поучиться\Лабы инфа\Programming2\Automobile_Class\obj\Debug\Automobile_Class.pdb
